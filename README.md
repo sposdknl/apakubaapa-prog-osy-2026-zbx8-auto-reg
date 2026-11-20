@@ -1,5 +1,7 @@
 # OSY – Zabbix Agent 2 (8.0) na Debianu 13 s automatickou registrací
 
+![Úvodní obrázek](Images/UvodObrz.png)
+
 Virtuální stroj s Debianem 13 spuštěný pomocí Vagrantu. Zabbix Agent 2 verze 8.0 LTS se na něj nainstaluje a nakonfiguruje automaticky přes provisioning ve `Vagrantfile`. Agent se sám zaregistruje na Zabbix server `enceladus.pfsense.cz`.
 
 ## Obsah repozitáře
